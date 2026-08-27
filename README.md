@@ -6,7 +6,7 @@ My name is Oliver Kreke. This portfolio includes projects I completed in Compute
 ##Skills Practiced:
 -Variables
 -Input and Output
--If staements
+-If statements
 -Loops
 -Functions
 -Lists and Tuples
