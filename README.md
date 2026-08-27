@@ -4,7 +4,7 @@ Projects completed in Computer Science I
 My name is Oliver Kreke. This portfolio includes projects I completed in Computer Science I.
 
 ##Skills Practiced:
--Variavles
+-Variables
 -Input and Output
 -If staements
 -Loops
