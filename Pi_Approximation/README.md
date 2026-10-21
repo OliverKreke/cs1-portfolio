@@ -12,7 +12,7 @@ This program asks a user for an error tolerance then the program prints pi appro
 
 ## What I Learned 
 - I learned how to input math equations into code.
-
+- Learned to use a while loop to repeat the equation to get a desired outcome.
 
 
 ## Future Improvements
