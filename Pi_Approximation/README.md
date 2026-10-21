@@ -5,13 +5,13 @@ This program asks a user for an error tolerance then the program prints pi appro
 
 
 ## Skills Practiced
-Using while loops 
-Using floats 
-Using input from the user
-Using long arithmetic (parenthesis, exponents, etc)
+- Using while loops 
+- Using floats 
+- Using input from the user
+- Using long arithmetic (parenthesis, exponents, etc)
 
 ## What I Learned 
-I learned how to input math equations into code.
+- I learned how to input math equations into code.
 
 
 
